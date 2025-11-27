@@ -1,0 +1,10 @@
+[project]
+name = "orthanc"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "chromadb>=0.3.23",
+    "mcp[cli]>=1.22.0",
+]
